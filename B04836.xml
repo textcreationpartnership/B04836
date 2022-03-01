@@ -1,0 +1,280 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A paraphrase upon justice, or The powerful operation of gold: with some resentments against the proceedings of the Catholick cause.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04836</idno>
+            <idno type="OCLC"> 13087460</idno>
+            <idno type="STC">Wing P342</idno>
+            <idno type="STC">Interim Tract Supplement Guide 839.m.22[7]</idno>
+            <idno type="STC">ESTC R5966</idno>
+            <idno type="EEBO-CITATION">99890790</idno>
+            <idno type="PROQUEST">ocm99890790</idno>
+            <idno type="VID">181733</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04836)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181733)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:2[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A paraphrase upon justice, or The powerful operation of gold: with some resentments against the proceedings of the Catholick cause.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:181733:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>A PARAPHRASE Upon Juſtice, Or the powerful Operation of GOLD: WITH ſome Reſentments againſt the Proceedings of the CATHOLICK-CAUSE.</head>
+            <l>THat Gold more powerful ſhould than Juſtice ſway,</l>
+            <l>or <hi>Indian</hi> duſt, ſhould <hi>Englands</hi> Truſt betray!</l>
+            <l>What boarding Omens of Approaching Fate,</l>
+            <l>With dusky Wings attends that falling State?</l>
+            <l>Where Juſtice ſtaggers, and the ſplendid Laws,</l>
+            <l>Suffer Eclipſes, in a <hi>Roman</hi> Cauſe.</l>
+            <l>What can we think, when <hi>Aſtrea</hi> thus aſcend;</l>
+            <l>And Cloud, invading <hi>Magna Charta</hi> bends?</l>
+            <l>Preſs'd with the weight of too too ponderous O're,</l>
+            <l>Which Scarlet Robes, Ah me, too oft Adore.</l>
+            <l>If 'tis a Sin to injure Innocence,</l>
+            <l>'Tis worſe indulging him who gave Offence:</l>
+            <l>For what ſhould Men to Juſtice have regard,</l>
+            <l>When hated Treaſon ſcapes its juſt reward?</l>
+            <l>The trembling Univerſemuſt ſurely groan,</l>
+            <l>When ſuch paſs by who undermine a Throan.</l>
+            <l>Wrack'd Orbs muſt ſhiver in a Storm like this,</l>
+            <l>No Nation can hereafter hope for Peace;</l>
+            <l>When ſwell'd with ſuch ſucceſs, the Murdering Rout,</l>
+            <l>Like ſwarms of Locuſts, are diſpers'd about.</l>
+            <l>Unſafe are Crowns, and ſacred Monarchs too;</l>
+            <l>If Traitors are upheld in what they do.</l>
+            <l>When Laws, alas, like Spiders Webs are made,</l>
+            <l>The Great eſcape, the leſs by Death are ſtay'd.</l>
+            <l>But Juſtice in it ſelf does Splendid prove,</l>
+            <l>It owns no Paſſion, made of Fear, or Love.</l>
+            <l>In equal Scales ſhe weighs the Cauſe, and then,</l>
+            <l>Deſtructive Mammon, dares not thruſt between.</l>
+            <l>That Conſcience ſure, is a continual Feaſt,</l>
+            <l>Where neither Love, Revenge, nor Intereſt</l>
+            <pb n="2" facs="tcp:181733:2"/>
+            <!-- PDF PAGE 14 -->
+            <l>Can bribe; to preverecate, 'twas happy ſure,</l>
+            <l>If Monarchs in all Ages could procure</l>
+            <l>Such faithful Props, whoſe Candid Souls ne'r knew,</l>
+            <l>That Gold had power to render Man untrue:</l>
+            <l>Or over-laviſh Mines, could baffle Death,</l>
+            <l>Pronouncing Guilty, Guiltleſs, with one Breath.</l>
+            <l>That like the Orbs, an Art there could be found,</l>
+            <l>Or pow'rful Charms, to hurry Conſcience round.</l>
+            <l>'Tis ſure, if we ſuch Virtues could poſſeſs,</l>
+            <l>They'd much augment our Nations Happineſs.</l>
+            <l>Then <hi>England</hi> would the Land of Promiſe prove,</l>
+            <l>Founded on Baſis made of perfect Love.</l>
+            <l>No Evening Wolves, nor lurking Serpents Power,</l>
+            <l>Could hiſs at Kings, nor Subjects Wealths devour.</l>
+            <l>No <hi>Roman</hi> Baſilicks could e're prevail,</l>
+            <l>With Golden Heads, their poiſoning Art would fail.</l>
+            <l>The beſt of Princes might repoſe ſecure,</l>
+            <l>Whom wiſe Omaipotence does ſtill immure.</l>
+            <l>Whll'ſt Guards of Angels, an Eternal Quire;</l>
+            <l>Incloſe him round, in vain does Hell conſpire.</l>
+            <l>And his firſt born, with Flouds of Rage incence;</l>
+            <l>His Virtue's Addamant for his Defence.</l>
+            <l>With flaming Swords, the bright <hi>Saeraphick</hi> Band,</l>
+            <l>(Againſt whoſe Arms, not Earth nor Hell can ſtand)</l>
+            <l>Have ſtrict Command to ſave him from his Foes,</l>
+            <l>Who Vipers like, his Royal Self incloſe:</l>
+            <l>Whilſt Gownmen wink at Treaſon, and paſs by;</l>
+            <l>The black Deſigners, of all Villany.</l>
+            <l>Could it be thought, a Traitors Golden Hook</l>
+            <l>Tho Baits of Angels dangl'd, could have took</l>
+            <l>So ſoon; and from its primal Element,</l>
+            <l>A Soul profeſſing Loyalty have bent?</l>
+            <l>Or to have freed a Wretch, whoſe horrid Hand;</l>
+            <l>Pan Poiſon mix'd, to ruine all the Land!</l>
+            <l>Strengthen'd with Fictions Bleſſings from that Train;</l>
+            <l>Whoſe Scarlet Miſtriſs does or'e Nations Reign.</l>
+            <l>By Tyranny, makes Kingdoms bluſh with Blood;</l>
+            <l>None dares converſe with her, that dares be good.</l>
+            <l>Witneſs her Agents, blaſt ye powers above,</l>
+            <l>Their Thoughts for ever, let no Peace nor Love,</l>
+            <pb n="3" facs="tcp:181733:2"/>
+            <!-- PDF PAGE 14 -->
+            <l>In her dire Habitations to abide,</l>
+            <l>No more let Empire in her Smiles Conſide</l>
+            <l>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or why, her Shapes beyond <hi>Proteus</hi> are,</l>
+            <l>If ſhe wants power to manage her affair.</l>
+            <l>She like a Scorpion, in ſweet Verdure lies;</l>
+            <l>From thence the heedleſs doth with Death ſurpriſe.</l>
+            <l>Mercies a Stranger, and is ſeldom known;</l>
+            <l>If She by Sword, or Treaſon Graſps a Throne.</l>
+            <l>For oh the Horrors that attend her Will;</l>
+            <l>To Burn, to Torture Raviſh, Poiſon, Kill.</l>
+            <l>But that our Law, ſhe ſhould inſect, is ſtrange!</l>
+            <l>'Tis the <hi>Preludium</hi> ſure, of fatal Change.</l>
+            <l>That She like <hi>Jove,</hi> by Raining Showers of Gold;</l>
+            <l>Should our Chaſte <hi>Dane</hi> Raviſh from her hold:</l>
+            <l>Where She for many Ages did reſide,</l>
+            <l>A ſpotleſs Virgin, <hi>Englands</hi> chiefeſt Pride.</l>
+            <l>But now Deſil'd, her Guardians have betray'd;</l>
+            <l>Thoſe Gates of Addamant, and thence conveigh'd</l>
+            <l>The glittering Sword, with which She quel'd her Foes:</l>
+            <l>And maugur'd all, that durſt preſume to cloſe.</l>
+            <l>But now with Shame, She hides her Angel-head,</l>
+            <l>With ſable Vails her baſhful face is ſpread.</l>
+            <l>Conquer'd by Duſt is She, that did Command,</l>
+            <l>A thouſand thouſand, and ſupports the Land.</l>
+            <l>
+               <hi>Rome</hi> fear'd her Frowns, and trembled too, but now:</l>
+            <l>No longer dwells that Terror on her Brow.</l>
+            <l>That Auful Luſter is obſcur'd and gone,</l>
+            <l>A dark Eclips of Midnight hurries on.</l>
+            <l>Her ſacred Scales that were from Heaven ſent,</l>
+            <l>With ponderous Intereſt are to Attoms rent</l>
+            <l>If E're repair'd their far too weak to hold,</l>
+            <l>Againſt a Storm that's intermix'd with Gold.</l>
+            <l>The feeble ſhe may Cruſh, but ſurely know,</l>
+            <l>Her firſt deſign was nevor orderd' ſo:</l>
+            <l>For ſhe her ſtrength againſt the mighty bent,</l>
+            <l>And oft in pitty ſpar'd the Impotent.</l>
+            <l>But ſince her laſt Affront, ſhe dares not own,</l>
+            <l>That <hi>Roman</hi> Treaſons are in <hi>England</hi> known.</l>
+            <l>Or that to Murder Princes, was a Crime</l>
+            <l>The blackeſt Monſter Ere was hatch'd by Time.</l>
+            <pb n="4" facs="tcp:181733:3"/>
+            <!-- PDF PAGE 15 -->
+            <l>This to the height, promotes Conſpiracie,</l>
+            <l>By this they prove no Plot, and all was free.</l>
+            <l>Had Angels ſpoken but in the ir behalf,</l>
+            <l>Or had their Prieſts but plac'd a Golden-Calf;</l>
+            <l>The Simptoms of their Cruel Thoughts had been,</l>
+            <l>Quite baniſhed from the Stage and never ſeen.</l>
+            <l>Nay, now ſo boldly dictates haughty <hi>Rome,</hi>
+            </l>
+            <l>Their Grief is paſt, and ours is yet to come.</l>
+            <l>That their inſulting Heroes never fled;</l>
+            <l>But that's untrue, ſome have unpuniſhed.</l>
+            <l>Nay, and already, as if all was done;</l>
+            <l>To make Deponents odious, they've begun.</l>
+            <l>With <hi>Romiſh</hi> querks, they ſcandalize the State;</l>
+            <l>Reflect on Juſtice, which they could Tranſlate</l>
+            <l>To their Advantage, as for <hi>Plebean</hi> Eyes;</l>
+            <l>They ſtrive to cloud'm with a falſe diſguiſe.</l>
+            <l>And to perſwade'm with a fond conceit;</l>
+            <l>The Plot's now vaniſhed, twas a Counterfeit.</l>
+            <l>But Proteſtants beware, whil'ſt Crimes they Shroud;</l>
+            <l>The Tempeſt gathers in a louring Cloud.</l>
+            <l>All black it hangs, it bailful Drops will ſhed;</l>
+            <l>Like <hi>Paris Murders,</hi> on the Churches Head.</l>
+            <l>When leaſt ſuſpected ſullen Fate will come,</l>
+            <l>Juſtice diſarm'd, the next we look for's <hi>Rome.</hi>
+            </l>
+            <l>Sure Hell produc'd that Villain he inherits,</l>
+            <l>The Land of Darkneſs, with Tempeſtuous Spirits.</l>
+            <l>Still may he groan in that infernal Shade:</l>
+            <l>Where <hi>Harpies</hi> dwell, eternal Thunders Aid.</l>
+            <l>To make his Torments full, that durſt extend</l>
+            <l>His curſed Arm, or impious Thoughts could bend</l>
+            <l>Againſt the Viceroy of that mighty God,</l>
+            <l>Who made the World, and with an auful nod,</l>
+            <l>He Heaven, Eearth and Hells Foundations ſhakes;</l>
+            <l>And in Protection ſacred Princes takes.</l>
+            <l>Tho Men ungrateful wink at Crimes below,</l>
+            <l>His Vengeance ſure will ne'-re be bafled ſo.</l>
+            <l>But pay the Traitors home, when all the Gold,</l>
+            <l>Can ne'r relieve, that <hi>Indian</hi>-Mines infold.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
